@@ -1,2 +1,2 @@
 # TestAngular
-this project used testing models
+this project used testing modules
